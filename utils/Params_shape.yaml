@@ -1,0 +1,22 @@
+setting:
+  additionalInfo: False
+
+imageType:
+  Original: { }
+
+featureClass:
+  shape:
+    - 'MeshVolume'
+    - 'VoxelVolume'
+    - 'SurfaceArea'
+    - 'SurfaceVolumeRatio'
+    - 'Sphericity'
+    - 'Maximum3DDiameter'
+    - 'Maximum2DDiameterSlice'
+    - 'Maximum2DDiameterColumn'
+    - 'Maximum2DDiameterRow'
+    - 'MajorAxisLength'
+    - 'MinorAxisLength'
+    - 'LeastAxisLength'
+    - 'Elongation'
+    - 'Flatness'
